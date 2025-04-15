@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1.explain about versions of reactjs from start and what are the differences/updates?
+2.explain about how you create an react project and run the application?
+3.explain about components in react?
+4.explain in detail about jsx in react?
+5.explain about project structure in react 
+ I mean folder structure, file extensions etc?
+6.how do you create a component in react and also explain in detail about component basic syntax?
+7.explain about how react handles component tree?
+8.how do you use and output dynamic values in react?
+9.how to set html attributes dynamically in react?
+10.how do you load images in react?
+11.explain in detail about props?
+re-usability, alternate prop syntaxes, working with props etc.,
+12.explain good project structure for storing components in files?
+13.where to store component style files in react?
+14.explain about component composition in react?
+special children prop
+15.how do you react to events in react?
+16.how do you pass functions as values to props?
+17.how do you pass custom arguments to event functions?
+18.how to not update the state I mean the UI in react?
+19.explain about managing state & using hooks?
+20.how do you output data based on state in react?
+21.how do you render content conditionally?
+22. how to use css styling and dynamic styling in react?
+23.how to output list data dynamically in react?
